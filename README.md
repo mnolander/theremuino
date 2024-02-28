@@ -9,16 +9,16 @@ This project is inspired by the theremin, an instrument you play without touchin
  - 1kΩ Resistor
  - Button
 
-![](https://raw.githubusercontent.com/mnolander/SmartSafe/main/Overview.png?token=GHSAT0AAAAAAB2G5BWQQP2G3VCVIP2BS5LEY4G7YWA)
+![](https://raw.githubusercontent.com/mnolander/theremuino/main/overview_pic.jpg?token=GHSAT0AAAAAACOR7VGASSCWAEBULUWESNRAZO6YSUQ)
 
 ## Pins
 | Component         | Pin(s)                                                    |
 |-------------------|-----------------------------------------------------------|
-| Photoresistor     | - A0                                                      |
-| Ultrasonic sensor | - **Vcc**: 5V - **Trig**: 9 - **Echo**: 10 - **GND**: GND |
-| Passive buzzer    | - **+**: 11 - **-**: 12                                   |
-| 1kΩ resistor      | - After A0 leg of photoresistor into GND                  |
-| Button            | - 2 - GND                                                 |
+| Photoresistor     | A0                                                        |
+| Ultrasonic sensor | **Vcc**: 5V, **Trig**: 9, **Echo**: 10, **GND**: GND      |
+| Passive buzzer    | **+**: 11, **-**: 12                                      |
+| 1kΩ resistor      | After A0 leg of photoresistor into GND                    |
+| Button            | 2, GND                                                    |
 
 ## Operation
  - Move right hand over ultrasonic sensor to adjust the **pitch**. By default, it is set to a maximum of 45cm and 8 notes.
