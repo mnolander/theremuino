@@ -9,6 +9,8 @@ This project is inspired by the theremin, an instrument you play without touchin
  - 1kΩ Resistor
  - Button
 
+[Check out the informercial I made for this project!](https://youtu.be/CMP3Iz_ER5M?si=kg0QRqO7vpF6iP2h)
+
 ![](https://raw.githubusercontent.com/mnolander/theremuino/main/overview_pic.jpg?token=GHSAT0AAAAAACOR7VGASSCWAEBULUWESNRAZO6YSUQ)
 
 ## Pins
